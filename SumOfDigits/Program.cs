@@ -16,7 +16,6 @@ namespace SumOfDigits
             Console.WriteLine("Enter a number:");
             n = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(SumOfDigits(n));
-
         }
     }
 }
